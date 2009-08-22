@@ -2,7 +2,7 @@
 # Date created:	   Fri Aug 21, 2009
 # Whom:		   Dan Rench <citric@cubicone.tmetic.com>
 #
-# $FreeBSD$
+# $FreeBSD: ports/devel/p5-DateTime-Format-RFC3339/Makefile,v 1.1 2009/08/22 19:08:45 miwi Exp $
 #
 
 PORTNAME=	DateTime-Format-RFC3339
